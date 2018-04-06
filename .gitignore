@@ -42,3 +42,8 @@ dist
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# config files   #
+######################
+
+message360-webrtc/m360helper-v3/webrtc/.env
